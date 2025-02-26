@@ -96,7 +96,6 @@ section h2 {
     transform: scale(1.2);
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 10px 0;
@@ -107,10 +106,6 @@ footer {
 footer a img {
     width: 30px;
     transition: transform 0.3s;
-}
-
-footer a img:hover {
-    transform: rotate(15deg) scale(1.2);
 }
 
 @keyframes fadeInDown {
